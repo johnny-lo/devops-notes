@@ -200,5 +200,6 @@ Level 5: 自動化部署（CD - deploy）
 
 ## 相關連結
 
+- [[devops_project_takeover_checklist_template]] — 執行用 Checklist（每次接手新專案複製一份來用）
 - [[gitlab_ci_pipeline_guide]] — Pipeline 架構與實踐指南
 - [[gitlab_ci_troubleshooting]] — CI/CD 踩坑 FAQ
